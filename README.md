@@ -93,6 +93,7 @@ These insights are vital for marketing, inventory planning, and executive report
 This Power BI project provides a clear example of how interactive dashboards can bring data to life. By transforming raw sales data into actionable insights, it empowers businesses to monitor performance in real time and make informed decisions. The project is a valuable asset for organizations seeking to improve operational efficiency, product strategies, and customer targeting through data visualization and business intelligence.
 
 # output 
+![Image](https://github.com/user-attachments/assets/81321113-3afe-43a1-a604-a685a9e08f43)
 
 
 
